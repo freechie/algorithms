@@ -24,7 +24,7 @@ https://richtxteditor.github.io/dsa
 
 ## Project Status and Next Steps
 
-For an interactive, up-to-date view of the project plan and study progress, please see the **[Consolidated Study Plan](https://richtxteditor.github.io/algorithms)**.
+For an interactive, up-to-date view of the project plan and study progress, please see the **[Consolidated Study Plan](https://freechie.github.io/algorithms)**.
 
 ### Completed Milestones
 
